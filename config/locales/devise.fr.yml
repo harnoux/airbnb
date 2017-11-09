@@ -24,6 +24,7 @@ fr:
         sign_in_count: Nombre des connexions
         unconfirmed_email: Courriel non confirmé
         unlock_token: Clé de déverrouillage
+        fullname: Nom Complet
         updated_at: Date de mise à jour
     models:
       user: Utilisateur
